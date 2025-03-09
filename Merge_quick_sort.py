@@ -8,8 +8,6 @@ heapq.heapify(li)
 
 print("Heap queue:", li)
 
-
-
 def partition(array, low, high):
 
     # choose the rightmost element as pivot
